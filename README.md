@@ -1,4 +1,4 @@
-# 🚀 孔令海 (Linghai Kong) | 研发总监 & 架构师
+# 🚀 研发总监 & 架构师
 
 [![Email](https://img.shields.io/badge/Email-823894716%40qq.com-red?logo=gmail)](mailto:823894716@qq.com)
 [![Location](https://img.shields.io/badge/Location-Guangzhou%2FShenzhen-green)](#)
